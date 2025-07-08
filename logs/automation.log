@@ -1,0 +1,141 @@
+15:52:01.615 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+15:52:01.618 [main] DEBUG - 🔧 Loading configuration properties...
+15:52:01.619 [main] INFO  - 🚀 Initializing browser setup...
+15:52:01.619 [main] INFO  - 🧪 Setting up Local WebDriver...
+15:52:01.619 [main] INFO  - 🌍 Launched Chrome browser
+15:52:03.055 [main] INFO  - ✅ Browser setup completed successfully.
+15:52:03.523 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+15:52:03.524 [main] INFO  - 🖥️⬛ Maximizing browser window
+15:52:03.533 [main] INFO  - ➡️ Navigating to login page via My Account...
+15:52:03.986 [main] INFO  - 👤 Clicked on 'My Account'
+15:52:04.303 [main] INFO  - 🔐 Clicked on 'Login'
+15:52:04.307 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:52:04.310 [main] INFO  - ✏️ Entering email and password...
+15:52:04.459 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:52:04.690 [main] INFO  - ✅ Clicked on 'Login' button
+15:52:04.692 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:52:04.744 [main] INFO  - 🔍 Checking if user is on My Account page: true
+15:52:04.747 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:52:04.748 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Login with Valid Credentials
+15:52:04.748 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+15:52:04.943 [main] INFO  - 👋 Browser session terminated
+15:52:04.960 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+15:52:04.960 [main] DEBUG - 🔧 Loading configuration properties...
+15:52:04.960 [main] INFO  - 🚀 Initializing browser setup...
+15:52:04.960 [main] INFO  - 🧪 Setting up Local WebDriver...
+15:52:04.960 [main] INFO  - 🌍 Launched Chrome browser
+15:52:05.809 [main] INFO  - ✅ Browser setup completed successfully.
+15:52:06.281 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+15:52:06.281 [main] INFO  - 🖥️⬛ Maximizing browser window
+15:52:06.285 [main] INFO  - ➡️ Navigating to Register Account page...
+15:52:06.638 [main] INFO  - 👤 Clicked on 'My Account'
+15:52:06.942 [main] INFO  - 📝 Clicked on 'Register'
+15:52:06.948 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:52:06.968 [main] INFO  - ✏️ Entering registration details...
+15:52:07.085 [main] DEBUG - 🔠 Generated random alphanumeric: LTmeu2542004705
+15:52:07.142 [main] INFO  - 📧 Generated email: LTmeu2542004705@gmail.com
+15:52:07.317 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:52:07.370 [main] INFO  - ☑️ Selected Privacy Policy checkbox
+15:52:07.372 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:52:09.717 [main] INFO  - ➡️ Clicked on Continue button to submit the form
+15:52:09.719 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:52:09.757 [main] INFO  - 🔍 Confirmation message received: Your Account Has Been Created!
+15:52:09.757 [main] INFO  - 🎉 Account successfully created!
+15:52:09.758 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:52:09.759 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Account Registration
+15:52:09.759 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+15:52:09.919 [main] INFO  - 👋 Browser session terminated
+15:54:38.338 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+15:54:38.342 [main] DEBUG - 🔧 Loading configuration properties...
+15:54:38.342 [main] INFO  - 🚀 Initializing browser setup...
+15:54:38.343 [main] INFO  - 🧪 Setting up Local WebDriver...
+15:54:38.343 [main] INFO  - 🌍 Launched Chrome browser
+15:54:39.613 [main] INFO  - ✅ Browser setup completed successfully.
+15:54:40.087 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+15:54:40.088 [main] INFO  - 🖥️⬛ Maximizing browser window
+15:54:40.101 [main] INFO  - ➡️ Navigating to login page via My Account...
+15:54:40.556 [main] INFO  - 👤 Clicked on 'My Account'
+15:54:40.827 [main] INFO  - 🔐 Clicked on 'Login'
+15:54:40.830 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:54:40.834 [main] INFO  - ✏️ Entering email and password...
+15:54:40.991 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:54:41.058 [main] INFO  - ✅ Clicked on 'Login' button
+15:54:41.059 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:54:41.339 [main] INFO  - 🔍 Checking if user is on My Account page: true
+15:54:41.343 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+15:54:41.344 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Login with Valid Credentials
+15:54:41.344 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+15:54:41.490 [main] INFO  - 👋 Browser session terminated
+15:54:41.512 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+15:54:41.512 [main] DEBUG - 🔧 Loading configuration properties...
+15:54:41.512 [main] INFO  - 🚀 Initializing browser setup...
+15:54:41.512 [main] INFO  - 🧪 Setting up Local WebDriver...
+15:54:41.512 [main] INFO  - 🌍 Launched Chrome browser
+15:54:42.448 [main] INFO  - ✅ Browser setup completed successfully.
+15:54:42.960 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+15:54:42.960 [main] INFO  - 🖥️⬛ Maximizing browser window
+15:54:42.963 [main] INFO  - ➡️ Navigating to Register Account page...
+15:54:43.382 [main] INFO  - 👤 Clicked on 'My Account'
+15:54:43.707 [main] INFO  - 📝 Clicked on 'Register'
+15:54:43.711 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:54:43.726 [main] INFO  - ✏️ Entering registration details...
+15:54:43.858 [main] DEBUG - 🔠 Generated random alphanumeric: pSHgo2071602239
+15:54:43.938 [main] INFO  - 📧 Generated email: pSHgo2071602239@gmail.com
+15:54:44.136 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:54:44.217 [main] INFO  - ☑️ Selected Privacy Policy checkbox
+15:54:44.219 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:54:46.634 [main] INFO  - ➡️ Clicked on Continue button to submit the form
+15:54:46.636 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:54:46.675 [main] INFO  - 🔍 Confirmation message received: Your Account Has Been Created!
+15:54:46.675 [main] INFO  - 🎉 Account successfully created!
+15:54:46.675 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+15:54:46.676 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Account Registration
+15:54:46.676 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+15:54:46.847 [main] INFO  - 👋 Browser session terminated
+16:04:06.225 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+16:04:06.231 [main] DEBUG - 🔧 Loading configuration properties...
+16:04:06.231 [main] INFO  - 🚀 Initializing browser setup...
+16:04:06.232 [main] INFO  - 🧪 Setting up Local WebDriver...
+16:04:06.232 [main] INFO  - 🌍 Launched Chrome browser
+16:04:07.719 [main] INFO  - ✅ Browser setup completed successfully.
+16:04:08.321 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+16:04:08.322 [main] INFO  - 🖥️⬛ Maximizing browser window
+16:04:08.336 [main] INFO  - ➡️ Navigating to login page via My Account...
+16:04:08.792 [main] INFO  - 👤 Clicked on 'My Account'
+16:04:09.090 [main] INFO  - 🔐 Clicked on 'Login'
+16:04:09.093 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+16:04:09.096 [main] INFO  - ✏️ Entering email and password...
+16:04:09.248 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+16:04:09.306 [main] INFO  - ✅ Clicked on 'Login' button
+16:04:09.309 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+16:04:09.575 [main] INFO  - 🔍 Checking if user is on My Account page: true
+16:04:09.577 [main] DEBUG - ✔️ Step passed: Successful Login with Valid Credentials
+16:04:09.578 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Login with Valid Credentials
+16:04:09.578 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+16:04:09.714 [main] INFO  - 👋 Browser session terminated
+16:04:09.735 [main] INFO  - 🚀✨ Starting test execution - Initializing browser...
+16:04:09.735 [main] DEBUG - 🔧 Loading configuration properties...
+16:04:09.736 [main] INFO  - 🚀 Initializing browser setup...
+16:04:09.736 [main] INFO  - 🧪 Setting up Local WebDriver...
+16:04:09.736 [main] INFO  - 🌍 Launched Chrome browser
+16:04:10.526 [main] INFO  - ✅ Browser setup completed successfully.
+16:04:11.114 [main] INFO  - 🌍🔛 Navigating to URL: http://localhost/opencart/upload/
+16:04:11.114 [main] INFO  - 🖥️⬛ Maximizing browser window
+16:04:11.115 [main] INFO  - ➡️ Navigating to Register Account page...
+16:04:11.510 [main] INFO  - 👤 Clicked on 'My Account'
+16:04:11.799 [main] INFO  - 📝 Clicked on 'Register'
+16:04:11.801 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+16:04:11.813 [main] INFO  - ✏️ Entering registration details...
+16:04:11.949 [main] DEBUG - 🔠 Generated random alphanumeric: DxHXV1726486227
+16:04:12.009 [main] INFO  - 📧 Generated email: DxHXV1726486227@gmail.com
+16:04:12.161 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+16:04:12.214 [main] INFO  - ☑️ Selected Privacy Policy checkbox
+16:04:12.215 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+16:04:12.289 [main] INFO  - ➡️ Clicked on Continue button to submit the form
+16:04:12.290 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+16:04:14.633 [main] INFO  - 🔍 Confirmation message received: Your Account Has Been Created!
+16:04:14.633 [main] INFO  - 🎉 Account successfully created!
+16:04:14.633 [main] DEBUG - ✔️ Step passed: Successful Account Registration
+16:04:14.635 [main] INFO  - 🏁 ✅ PASSED - Scenario: Successful Account Registration
+16:04:14.635 [main] INFO  - 🧹🛑 Closing browser and cleaning up resources...
+16:04:14.751 [main] INFO  - 👋 Browser session terminated
